@@ -52,9 +52,8 @@ export function Navbar() {
             <Link to="/internships" className={navLinkClass("/internships")}>
               Internships
             </Link>
-            <Link to="/resources" className={navLinkClass("/resources")}>
-              Resources
-            </Link>
+            
+
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <button className="flex items-center gap-1 hover:text-[#FFB700] transition-colors">
@@ -133,13 +132,8 @@ export function Navbar() {
             >
               Internships
             </Link>
-            <Link
-              to="/resources"
-              onClick={() => setMobileMenuOpen(false)}
-              className={`block w-full text-left py-2 ${navLinkClass("/resources")}`}
-            >
-              Resources
-            </Link>
+            
+
             <Link
               to="/sponsors"
               onClick={() => setMobileMenuOpen(false)}

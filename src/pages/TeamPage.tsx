@@ -54,7 +54,7 @@ export default function TeamPage() {
     },
     {
       name: "Conference Committee",
-      head: "Mariam Sabir ",
+      head: "------- ",
       members: [],
       description: "Planning conferences, seminars, and expert speaker events."
     },
@@ -66,7 +66,7 @@ export default function TeamPage() {
     },
     {
       name: "Media and Design  Committee",
-      head: "Aya Rifi ",
+      head: "------ ",
       members: [],
       description: "Creating visual content, managing social media, and maintaining the club’s brand identity."
     },

@@ -111,7 +111,7 @@ export default function AboutPage() {
               <div className="text-lg opacity-90">Industry Partners</div>
             </div>
             <div>
-              <div className="text-4xl mb-2">15+</div>
+              <div className="text-4xl mb-2">6+</div>
               <div className="text-lg opacity-90">Years Active</div>
             </div>
           </div>
